@@ -1,6 +1,6 @@
 
 public class ddddd {
 	static public void main() {
-		System.out.println("eeee");
+		System.out.println("eeeee");
 	}
 }
